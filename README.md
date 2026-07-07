@@ -25,7 +25,8 @@ projects
 expence tracker 
 
 
-connect linkedin leetcode email instagram personal portfolio
+connect linkedin 
+<img src="https://skillicons.dev/icons?i=linkedin,twitter,discordreddit&theme=dark" height="50"/>
 
 
 </div>
