@@ -15,10 +15,7 @@ tech stack
 <img src="https://skillicons.dev/icons?i=python,java,cpp,html,js,css,a&theme=dark" />
 
 
-knowledge domain 
-full stack cloud
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 github stats
 commits - repos- projects
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
