@@ -1,18 +1,29 @@
 
 <div align="center">
-  about me
+  ## ABOUT ME
+  
 hi i am maniessh 
-BE CSE 
-quote-"just a pro coder"
-belive in yourself
+ a cse student 
+ <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
+ <br>
+# 💻 Tech Stack:
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
+
+commits
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
+![](https://github-readme-stats.shion.dev/api?username=maniessh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=maniessh&theme=dark&hide_border=false)<br/>
+<br>
+lanuage used
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
-<a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=800&color=FF3333&background=0D111700&center=true&vCenter=true&width=600&lines=%3E+building+things+that+maters;%3E+red-team+by+day%2C+builder+by+night;%3E+open+source+%7C+systems+%7C+AI" alt="Typing SVG" />
-</a>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
-tech stack
-<img src="https://skillicons.dev/icons?i=python,java,cpp,html,js,css,a&theme=dark" />
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=maniessh&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+
 
 
 contact
@@ -24,12 +35,7 @@ commits - repos- projects
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 
 projects 
+
 expence tracker 
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
-connect linkedin 
-<img src="https://skillicons.dev/icons?i=linkedin,twitter,discordreddit&theme=dark" height="50"/>
-
-
-</div>
 
