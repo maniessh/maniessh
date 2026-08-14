@@ -13,7 +13,6 @@
 - 🎓 I'm **Maniessh**, a Computer Science Engineering student
 - 🌱 Currently deepening my skills in DSA, Web Dev & Java/C++
 - 🔭 Building projects that solve real-world, everyday problems
-- ⚡ Fun fact: I debug faster with coffee in hand
 - 📫 Reach me at the emails below — always open to collaborate!
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
@@ -27,6 +26,7 @@
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/c-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center">
