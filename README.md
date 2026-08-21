@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF3333&height=200&section=header&text=Hi%20There,%20I'm%20Maniessh%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20%7C%20Building%20Cool%20Stuff%20With%20Code&descAlignY=55&descSize=18"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Always+Learning%2C+Always+Building;Turning+Coffee+Into+Code+☕" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FF3333&center=true&vCenter=true&width=500&lines=Computer+Science+Engineering+Student;Always+Learning%2C+Always+Building;Think.+Code.+Conquer.;" alt="Typing SVG" />
 
 </div>
 
