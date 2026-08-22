@@ -13,7 +13,6 @@
 - 🎓 I'm **Maniessh**, a Computer Science Engineering student
 - 🌱 Currently deepening my skills in DSA, Web Dev & Java/C++
 - 🔭 Building projects that solve real-world, everyday problems
-- 📫 Reach me at the emails below — always open to collaborate!
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 
