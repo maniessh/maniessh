@@ -8,11 +8,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 
-## 🧑‍💻 About Me
+##  About Me
 
-- 🎓 I'm **Maniessh**, a Computer Science Engineering student
-- 🌱 Currently deepening my skills in DSA, Web Dev & Java/C++
-- 🔭 Building projects that solve real-world, everyday problems
+-  I'm **Maniessh**, a Computer Science Engineering student
+-  Currently deepening my skills in DSA, Web Dev & Java/C++
+-  Building projects that solve real-world, everyday problems 
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 
@@ -68,7 +68,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:FF3333&height=3&width=100%25" width="100%"/>
 
 ##  Connect With Me
-
 <p align="center">
   <a href="mailto:v.maniessh@gmail.com">
     <img src="https://img.shields.io/badge/Personal%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -81,5 +80,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:FF3333&height=100&section=footer"/>
 
 <div align="center">
-  <i>⭐ Thats all about me!</i>
+  <i> Thats all about me!</i>
 </div>
